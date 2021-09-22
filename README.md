@@ -8,8 +8,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ULTRA-OP/ULTRA-X)
 
 
-# υℓтяα χ вσт
-This is a ULTRA made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
+# Master-bot
+This is a Master made for telegram. I made this Master with help of all other Masters available in telegram. All credits goes to its Respective Owners....
 
 This is the one and only official υℓтяα χ вσт made by [ Team Ultra](https://t.me/ULTRAXOT) 
 
@@ -27,7 +27,7 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 
 ## Sᴛʀɪɴɢ Sᴇssɪᴏɴ:-
 
-## [String Session](https://replit.com/@legendx22/ULTRA-X)
+## [String Session](https://replit.com/@IIgauravII/Master-bot)
 
 -------------------------------------------------
 
